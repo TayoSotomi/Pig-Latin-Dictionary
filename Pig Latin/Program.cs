@@ -78,7 +78,7 @@ static string PigLatin(string Sentence)
 
 
 
-
+/*
 
 //Method
 static string UserInput(string input)
@@ -99,3 +99,4 @@ Console.WriteLine(UserInput("Hello"));
 
 
 Console.ReadLine();
+*/
